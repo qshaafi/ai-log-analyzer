@@ -1,0 +1,3 @@
+ERROR: Given source HDFS path /prod/incoming/... does not exist
+Process exited with status = 1
+Job: AI-Log-Analyzer
