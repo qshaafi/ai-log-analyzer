@@ -21,3 +21,7 @@ Displays extracted log information in a readable format.
 
 ## Purpose
 Built as part of backend engineering practice, focusing on real-world system scenarios.
+
+## Updates
+- Added root cause detection
+- Improved structured output
